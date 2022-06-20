@@ -1,0 +1,20 @@
+{
+  "name": "campsight",
+  "version": "0.1.0",
+  "description": "A MERN stack web application for browsing user-submitted campgrounds.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS-Schmidt/campsight.git"
+  },
+  "author": "Ethan Schmidt <es.schmidt.cs@gmail.com> (https://www.linkedin.com/in/cs-schmidt/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CS-Schmidt/campsight/issues"
+  },
+  "homepage": "https://github.com/CS-Schmidt/campsight#readme"
+}
